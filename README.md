@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-- 🌱 I’m currently learning **AI-ML**
+- 🌱 I’m currently learning **AI-ML**<br>
 🏹Full stack developer<br>🔭 I'm looking to collaborate with anyone looking to improve usability of tech
 
 ## 💻 Languages and Tools
