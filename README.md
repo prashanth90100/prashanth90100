@@ -3,10 +3,40 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashanth90100&label=Profile%20views&color=0e75b6&style=flat" alt="prashanth90100" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashanth90100" alt="prashanth90100" /></a> </p>
 
+# 💫 About Me:
 - 🌱 I’m currently learning **AI-ML**
+🏹Full stack developer<br>🔭 I'm looking to collaborate with anyone looking to improve usability of tech
 
+## 💻 Languages and Tools
+
+### AI/ML
+
+[![AI/ML](https://skillicons.dev/icons?i=py,pycharm,tensorflow,sklearn)](https://skillicons.dev)
+
+### Frontend
+
+[![Frontend](https://skillicons.dev/icons?i=html,css,scss,bootstrap,js,ts,react,tailwind,next)](https://skillicons.dev)
+
+### Backend
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,postman)](https://skillicons.dev)
+
+### Database
+
+[![Database](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
+
+
+
+### Tools
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,windows,ubuntu)](https://skillicons.dev)
+
+
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 - 📫 How to reach me **prashanthlingam705@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
