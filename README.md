@@ -1,12 +1,16 @@
-<h1 align="center">Hi 👋, I'm L Prashanth</h1>
+<h1 align="center">Hi 👋, I'm Prashanth Yadav</h1>
 <h3 align="center">A passionate about building full stack applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashanth90100&label=Profile%20views&color=0e75b6&style=flat" alt="prashanth90100" /> </p>
 
 
 # 💫 About Me:
-- 🌱 I’m currently learning **AI-ML**<br>
-🏹Full stack developer<br>🔭 I'm looking to collaborate with anyone looking to improve usability of tech
+🌱 I’m currently learning and developing Full stack projects<br>
+🔭 I'm looking to collaborate with anyone looking to improve usability of tech<br>
+👨‍💻 B.Tech CSE student passionate about software development and research.<br>
+🚀 Exploring Web Development, Machine Learning, and IoT projects.<br>
+📊 Interested in Data Analytics, AI, and Sustainable Tech solutions.<br>
+💡 Love building practical projects that solve real-world problems.
 
 ## 💻 Languages and Tools
 
